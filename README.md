@@ -1,7 +1,7 @@
 🚀 Project Name : Maurya
 ===============
 
-Maurya: Virustotal Domain Analyzer for extracting sensitive info .
+**Maurya: Virustotal Domain Analyzer for extracting sensitive info .**
 
 📌 Overview
 
