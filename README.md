@@ -23,9 +23,8 @@ Just because I wanted to name it something cool yet classic, like 'Dynasty'.
 ### Why I Created This
 
 
-You all know that bug hunters, especially those using CLI tools like Subfinder, Amass, Nuclei, Dirsearch, etc., face some challenges. Personally, I’ve been running into issues while bug hunting. I have to find the admin panel or subdomain for every domain using dorking, then set it up with the VirusTotal API. After that, I search for the URL like this: **https://[API_KEY].[domain or login panel]**, and then I have to sift through it using Ctrl + F to find any sensitive details.
-This whole process is pretty lengthy, and I thought it would be way better if we could automate it with a CLI version. That’s why I decided to create this tool
-
+You all know that bug hunters, especially those using CLI tools like Subfinder, Amass, Nuclei, Dirsearch, etc. Personally, I’ve been running into issues while bug hunting that I have to find the admin panel or subdomain for every domain using dorking, then set it up with the VirusTotal API. After that, I search for the URL like this: **https://[API_KEY].[domain or login panel]**, and then I have to sift through it using Ctrl + F to find any sensitive details.
+This whole process is pretty lengthy, and I thought it would be way better if we could automate it with a CLI version. That’s why I decided to create this tool.
 
 ### 🔧 Requirements & Dependencies
 
@@ -45,7 +44,10 @@ source .venv/bin/activate
 python3 -m pip install -r requirements.txt
 python3 maurya.py
 ```
+Step 1:  Now aftter running maurya.py , enter any domain and set your API key.
 
+Step 2: That's it , just wait for 2-3 sec. and you'll get your output
+                
 
 ### 📞 Contact
 
