@@ -34,7 +34,7 @@ This whole process is pretty lengthy, and I thought it would be way better if we
 ### 📥 Installation Guide & Usuage
 <!-- --------------------- -->
 
-### ⚡ Quick Install
+### ⚡ Quick Install & Usuage
 
     
  ```bash
