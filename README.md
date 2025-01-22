@@ -39,6 +39,7 @@ This whole process is pretty lengthy, and I thought it would be way better if we
     
  ```bash
 git clone https://github.com/gigachad80/Maurya
+cd Maurya
 python3 -m venv .venv
 source .venv/bin/activate
 python3 -m pip install -r requirements.txt
