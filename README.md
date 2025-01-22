@@ -20,7 +20,7 @@ Just because I wanted to name it something cool yet classic, like 'Dynasty'.
 
  Approx :20 min.
 
-### Why I Created This
+### 🙃 Why I Created This
 
 
 You all know that bug hunters, especially those using CLI tools like Subfinder, Amass, Nuclei, Dirsearch, etc. Personally, I’ve been running into issues while bug hunting that I have to find the admin panel or subdomain for every domain using dorking, then set it up with the VirusTotal API. After that, I search for the URL like this: **https://[API_KEY].[domain or login panel]**, and then I have to sift through it using Ctrl + F to find any sensitive details.
